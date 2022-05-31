@@ -12,55 +12,17 @@ Figure 2: I was assigned to discuss MATLAB Basics. I received an email of reques
 Topic Outline:
 
 1. Introduction to MATLAB
-• What versions of MATLAB to install?
-• What is MATLAB?
-• MATLAB Basics Webinar Scope 
-• Other MATLAB Features (Simulink, Toolboxes and Applications)
 
-2. MATLAB Desktop Basics
-• MATLAB Panels (Current Folder, Workspace and Command Window)
-• Difference Between Live Script and Plain Script
+2. MATLAB Desktop Basics -- Navigating through MATLAB
 
-3. MATLAB Demo
-• Showing the Difference between Live Script and Plain Script
-• Entering the Most Useful Commands
-    o ‘clear’ or ‘clear all’ command – for clearing the variables in the workspace
-    o ‘clc’ command – for clearing the command window
-• Matrices and Arrays
-    o Matrix and Array Operations 
-    o Different Formats
-    o Element-wise Multiplication and Element-wise Operator for Power
-    o Concatenation 
-    o Complex Numbers
-    o Array Indexing
-• Saving and Loading MATLAB files from Workspace
-• Data Types
-    o String and Character Arrays
-    o Conversions
-▪ From Numerical to Cell Array
-▪ From Cell Array to Numerical Array
-• Functions
-• Loops and Conditional Statements
-    o Loop Control Statements
-▪ While and For loops
-    o Conditional Statements
-▪ Switch, Case, Otherwise Expressions
-▪ If, Elseif, Else Statements
-• Question and Message Dialog Box
-• 2-D Plotting
-    o Subplot and Live Plotting
+3. MATLAB Demo -- Creation of Scripts & Live Scripts
     
-4. Introducing or Showing Other MATLAB Features
-• Showing Other Applications of MATLAB on the ‘APP’ Tab
-• Simulink
-• App Designer
-
-What to Install:
-• MATLAB R2019a and above
-Note: Full version is advised instead of using the free trial
+4. Introducing or Showing Other MATLAB Features -- Database Explorer; Simulink; Appdesidner; Machine Learning Toolbox
 
 MATLAB Webinar Materials:
+
 • MATLAB Scripts – used in the demo
+
 • Guides and Books – contains MATLAB cheat sheets and Books
 
 
