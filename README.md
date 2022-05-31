@@ -42,3 +42,4 @@ MATLAB Webinar Materials:
 
 ![image](https://user-images.githubusercontent.com/82814920/171144938-2a3859ab-4d06-4590-a346-666e3d94a8ce.png)
 
+© 2021, Jen Beatrix Maristela (aka jenbeatrix), All rights reserved.
